@@ -3,7 +3,7 @@
 
  ## 🛠 Installation & Set Up 🛠
 
- 1. **Install dependencies :**<br>
+ 1. **Clone repo :**<br>
  first you have to clone the repo using github desktop or in the git bash by : 
   ```
    git clone https://github.com/Hamziss/MERN-TEMPLATE
