@@ -16,7 +16,7 @@ this template was made only to gain some time when you start a mern project by s
 
 ## Running server and client:
 Notes: 
-to run all script you have to be in the main path meaning c:/.../..../mern-template
+to run all script you have to be in the root path meaning "c:/.../..../mern-template"
 if you change the name of index.js in backend don't forget to change it in scripts of package.json
 
 to run only the server
