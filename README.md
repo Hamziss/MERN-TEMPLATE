@@ -19,15 +19,15 @@ Notes:
 to run all script you have to be in the root path meaning "c:/.../..../mern-template"
 if you change the name of index.js in backend don't forget to change it in scripts of package.json
 
-to run only the server
+**to run only the server**
 ```sh
 npm run server
 ```
-to run only client
+**to run only client**
 ```sh
 npm run client
 ```
-to run both in one terminal 
+**to run both in one terminal **
 ```sh
 npm run dev
 ```
