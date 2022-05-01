@@ -3,18 +3,18 @@
 
  ## 🛠 Installation & Set Up 🛠
 
- 1. Install dependencies :
+ 1. **Install dependencies :**<br>
  first you have to clone the repo using github desktop or in the git bash by : 
   ```
    git clone https://github.com/Hamziss/MERN-TEMPLATE
    ```  
-2. Install dependencies :
+2. **Install dependencies :**
 
   ```sh
    npm install 
    ```  
 
-## Running server and client:
+## **Running server and client:**
 Notes: 
 to run all script you have to be in the root path meaning "c:/.../..../mern-template"
 if you change the name of index.js in backend don't forget to change it in scripts of package.json
