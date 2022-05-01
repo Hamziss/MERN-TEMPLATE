@@ -34,5 +34,5 @@ npm run dev
 
 ## **🍀 GOOD LUCK: 🍀**
 
->Where ever was your project about you good luck on it and if you still didn't start a new project it about time to .
+>Where ever was your project about good luck on it and if you still didn't start a new project it about time to sir or madam.
 be productive and drink water!
