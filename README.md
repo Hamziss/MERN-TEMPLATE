@@ -27,7 +27,7 @@ npm run server
 ```sh
 npm run client
 ```
-**to run both in one terminal **
+**to run both in one terminal**
 ```sh
 npm run dev
 ```
