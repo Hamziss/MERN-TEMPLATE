@@ -1,5 +1,5 @@
 # MERN-TEMPLATE
-this template was made only to gain some time when you start a mern project by sitting main folders and cleaning up files i personally use it everytime i start a mern project
+this template was made only to gain some time when you start a mern project by sitting main folders and cleaning up files of react app i personally use it everytime i start a mern project
 
  ## 🛠 Installation & Set Up 🛠
 
