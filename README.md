@@ -4,7 +4,7 @@ this template was made only to gain some time when you start a mern project by s
  ## 🛠 Installation & Set Up 🛠
 
  1. Install dependencies :
- first you have clone the repo using github desktop or in the git bash by the command: 
+ first you have clone the repo using github desktop or in the git bash by : 
   ```
    git clone https://github.com/Hamziss/MERN-TEMPLATE
    ```  
