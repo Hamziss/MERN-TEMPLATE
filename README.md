@@ -9,7 +9,7 @@
    git clone https://github.com/Hamziss/MERN-TEMPLATE
    ```  
 2. **Install dependencies :**
-  for **backend**:
+  for **backend**:<br/>
   ```sh
    npm install 
    ```
