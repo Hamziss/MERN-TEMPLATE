@@ -13,9 +13,13 @@
   ```sh
    npm install 
    ```
-   for **frontend**:
-   you have to  ```sh cd client ``` and then 
-    ```sh npm install```
+   for **frontend**:<br/>
+   you have to:
+   ```cd client ``` 
+   and then 
+```sh 
+npm install
+```
 
 ## **Running server and client:**
 Notes: 
