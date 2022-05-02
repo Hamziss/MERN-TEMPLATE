@@ -9,10 +9,13 @@
    git clone https://github.com/Hamziss/MERN-TEMPLATE
    ```  
 2. **Install dependencies :**
-
+  for **backend**:
   ```sh
    npm install 
-   ```  
+   ```
+   for **frontend**:
+   you have to  ```sh cd client ``` and then 
+    ```sh npm install```
 
 ## **Running server and client:**
 Notes: 
